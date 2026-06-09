@@ -1,7 +1,0 @@
-# Set to -1 for infinite uses
-max_uses: 10
-# Whether the compass should break at zero durability
-# or an empty one should be returned instead
-break_at_zero_uses: false
-#Cooldown between TPs in Milliseconds
-tp_cooldown: 3000
