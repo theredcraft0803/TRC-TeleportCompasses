@@ -1,4 +1,4 @@
-# TRC-TeleportCompasses
+# TRC: TeleportCompasses
 
 A simple Paper plugin that adds a compass with the ability to teleport to a set location.
 
